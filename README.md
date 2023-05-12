@@ -29,14 +29,14 @@ The types of personal information we collect may include:
 We may also collect personal information from third-party sources, such as social media platforms, if you choose to link your social media accounts to our platform.
 
 We use this personal information to:
-Create and maintain your account
-Provide our services to you
-Respond to your inquiries and requests
-Send you updates and promotional materials
-Improve our platform and services
-Conduct research and analysis
-Prevent fraud and illegal activities
-Comply with legal obligations
+- Create and maintain your account
+- Provide our services to you
+- Respond to your inquiries and requests
+- Send you updates and promotional materials
+- Improve our platform and services
+- Conduct research and analysis
+- Prevent fraud and illegal activities
+- Comply with legal obligations
 
 We may also use your personal information for other purposes, with your consent or as permitted by law.
 We take appropriate measures to protect your personal information and to ensure that it is accurate, up-to-date, and relevant for the purposes for which it was collected. We may retain your personal information for as long as necessary to fulfill the purposes for which it was collected or as required by law.
